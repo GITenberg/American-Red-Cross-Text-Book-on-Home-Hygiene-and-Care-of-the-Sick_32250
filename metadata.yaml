@@ -1,0 +1,42 @@
+_repo: American-Red-Cross-Text-Book-on-Home-Hygiene-and-Care-of-the-Sick_32250
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32250-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: American National Red Cross
+    alias: Cross, American National Red
+    gutenberg_agent_id: '35748'
+    url: http://www.gutenberg.org/2009/agents/35748
+  - agent_name: McIsaac, Isabel
+    gutenberg_agent_id: '41051'
+    url: http://www.gutenberg.org/2009/agents/41051
+  - agent_name: Delano, Jane A.
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '35746'
+    url: http://www.gutenberg.org/2009/agents/35746
+  - agent_name: Strong, Anne Hervey
+    birthdate: 1876
+    deathdate: 1925
+    gutenberg_agent_id: '35747'
+    url: http://www.gutenberg.org/2009/agents/35747
+description: ''
+gutenberg_issued: '2010-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32250'
+  lccn: '18018873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursing'
+- !lcsh 'Hygiene'
+- !lcsh 'Home nursing'
+- !lcsh 'Nurses'
+- !lcc 'RA'
+title: American Red Cross Text-Book on Home Hygiene and Care of the Sick
+url: http://www.gutenberg.org/ebooks/32250
